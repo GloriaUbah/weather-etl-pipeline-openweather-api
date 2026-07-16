@@ -1,0 +1,4 @@
+City,Temperature_C,Humidity_Percent,Weather,WindSpeed_mps,DateTime
+Kaduna,24.69,85,Clouds,2.76,2026-07-14 19:22:48.817162
+Lagos,24.46,92,Clouds,3.35,2026-07-14 19:22:50.973602
+Abuja,24.43,90,Clouds,1.7,2026-07-14 19:22:52.892289
